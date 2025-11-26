@@ -1,21 +1,54 @@
-# chat_app_demo
+# 📱 Chat App Demo
 
-A new Flutter project.
+A Flutter chat application with a full UI flow including Welcome, Login, Signup, Users List, and Chat Screen.  
+The project features clean design, smooth navigation, and a structure ready for Firebase or backend integration.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+  <img src="assets/chatapp.png" width="1000" />
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-+ ![screenShout](assets/Welcome_screen.png)
-+ ![screenShout](assets/sign_up_screen.png)
-+ ![screenShout](assets/login_screen.png)
-+ ![screenShout](assets/list_chat.png)
-+ ![screenShout](assets/chat_screen.png)
+---
+
+## 🚀 Features
+
+- Modern Welcome Screen  
+- Login & Signup UI  
+- List of users  
+- Clean Chat Screen layout  
+- Smooth navigation  
+- Scalable Flutter structure  
+
+---
+
+## 🧩 Tech Stack
+
+- Flutter  
+- Dart   
+- Firebase / Custom API ready
+  
+---
+
+## 🔧 Firebase / Backend Integration
+
+The app UI is ready for integration with:
+
+🔥 Firebase Auth → Login & Signup
+
+🔥 Firestore → Chat Messages
+
+---
+
+👨‍💻 Developer
+
+Balsam serhan || Flutter Developer
+
+GitHub: https://github.com/balsamsrhan
+
+LinkedIn: https://www.linkedin.com/in/balsam-serhan/
+
+Email: serhanbalsam54@gmail.com
